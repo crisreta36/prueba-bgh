@@ -1,0 +1,12 @@
+# dataset.yaml
+
+train: D:\CIENCIA-DE-DATOS-IA-4TO-CUATRIMESTRE\Practica-profecionalizantes-2\Sistema-BGH-Cable-Detection\BGH_PowerCheck\datasets\train\images  # Ruta relativa al conjunto de entrenamiento
+val: D:\CIENCIA-DE-DATOS-IA-4TO-CUATRIMESTRE\Practica-profecionalizantes-2\Sistema-BGH-Cable-Detection\BGH_PowerCheck\datasets\val\images      # Ruta relativa al conjunto de validación
+test: D:\CIENCIA-DE-DATOS-IA-4TO-CUATRIMESTRE\Practica-profecionalizantes-2\Sistema-BGH-Cable-Detection\BGH_PowerCheck\datasets\test\images    # Ruta relativa al conjunto de prueba
+
+names:
+  0: Negro
+  1: Azul
+  2: Amarillo
+  3: Marron
+  4: Rojo
